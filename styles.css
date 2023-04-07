@@ -24,6 +24,7 @@ overflow: hidden;
     width: 50%;
     height: 45%;
     background:linear-gradient(45deg, gray,rgb(239, 240, 228) );
+    border-radius: 70% 70% 65% 65%;
 }
 
 .penguin {
