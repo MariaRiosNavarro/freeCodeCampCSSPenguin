@@ -17,6 +17,7 @@ overflow: hidden;
     background: linear-gradient(90deg, rgb(88, 175, 236), rgb(182, 255, 255)  );
     z-index: 3;
     position: absolute;
+    margin-top: -58px;
 }
 
 .penguin {
@@ -33,4 +34,5 @@ overflow: hidden;
     position:absolute;
     transform: skew(0deg, 44deg);
     z-index: 2;
+    margin-top: 100px;
 }
