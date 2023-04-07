@@ -11,3 +11,7 @@ the horizontal and vertical scrollbars, using only one property.
 overflow: hidden;
 
 */
+.ground {
+    width: 100vw;
+    height: 400px;
+}
