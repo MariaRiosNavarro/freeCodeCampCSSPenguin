@@ -20,6 +20,12 @@ overflow: hidden;
     margin-top: -58px;
 }
 
+.penguin-head {
+    width: 50%;
+    height: 45%;
+    background:linear-gradient(45deg, gray,rgb(239, 240, 228) );
+}
+
 .penguin {
     width: 300px;
     height: 300px;
@@ -61,3 +67,4 @@ overflow: hidden;
     top: -75px;
     right:-75px;
 }
+
