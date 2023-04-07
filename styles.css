@@ -4,4 +4,10 @@ body {
     padding: 0;
     width: 100%;
     height: 100vh;
+    overflow: hidden;
 }
+/*Remove both the horizontal and vertical scrollbars, using only one property.Remove both 
+the horizontal and vertical scrollbars, using only one property.
+overflow: hidden;
+
+*/
