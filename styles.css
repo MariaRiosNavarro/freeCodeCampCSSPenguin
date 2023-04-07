@@ -56,4 +56,6 @@ overflow: hidden;
     background-color: yellow;
     position: absolute;
     border-radius: 50%;
+    top: -75px;
+    right:-75px;
 }
