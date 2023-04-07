@@ -76,3 +76,7 @@ overflow: hidden;
     right:-75px;
 }
 
+
+.penguin * {
+  position: absolute;
+}
