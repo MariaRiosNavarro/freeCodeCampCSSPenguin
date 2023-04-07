@@ -48,9 +48,11 @@ overflow: hidden;
     z-index: 4;
 }
 
-.penguin-body:first-child {
+.penguin-body::before {
     content: "";
-}
+    position:absolute;
+  
+  }
 
 .left-mountain{
     width: 300px;
