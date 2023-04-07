@@ -25,6 +25,8 @@ overflow: hidden;
     height: 300px;
     margin: auto;
     margin-top: 75px;
+    position: relative;
+    z-index: 4;
 }
 
 .left-mountain{
