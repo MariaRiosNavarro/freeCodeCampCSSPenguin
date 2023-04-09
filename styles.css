@@ -37,7 +37,7 @@ overflow: hidden;
 .penguin-body{
     width: 53%;
     height: 45%;
-    background: linear-gradient(45deg, rgb(134, 133, 133) 0%, rgb(234, 231, 231)25%, white 67% );
+    background: linear-gradient(45deg, rgb(134, 133, 133) 0%, rgb(234, 231, 231)25%, var( --penguin-face) 67% );
     border-radius: 80% 80% 100% 100%;
     top: 40%;
     left: 23.5%;
@@ -69,7 +69,7 @@ overflow: hidden;
 .face {
     width: 60%;
     height: 70%;
-    background-color: white;
+    background-color: var( --penguin-face)
     border-radius: 70% 70% 60% 60%;
     top: 15%;
 }
@@ -84,7 +84,7 @@ overflow: hidden;
 .chin {
     width: 90%;
     height: 70%;
-    background-color: white;
+    background-color: var( --penguin-face);
     top:25%;
     left: 5%;
     border-radius: 70% 70% 100% 100%;
