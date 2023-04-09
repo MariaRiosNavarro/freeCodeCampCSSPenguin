@@ -11,6 +11,12 @@ the horizontal and vertical scrollbars, using only one property.
 overflow: hidden;
 
 */
+
+:root {
+    --penguin-face: white;
+ }
+
+
 .ground {
     width: 100vw;
     height: 400px;
@@ -90,9 +96,11 @@ overflow: hidden;
     border-radius: 70% 70% 100% 100%;
 }
 
-:root {
-    --penguin-face: white;
- }
+.eye {
+    width: 15%;
+    height: 17%;
+    background-color: black;
+}
 
 
 .left-mountain{
