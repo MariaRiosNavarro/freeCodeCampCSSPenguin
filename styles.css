@@ -113,6 +113,13 @@ overflow: hidden;
 }
 
 
+.eye-lid {
+    width: 150%;
+    height: 100%;
+    background-color: var(--penguin-face);
+}
+
+
 .left-mountain{
     width: 300px;
     height: 300px;
