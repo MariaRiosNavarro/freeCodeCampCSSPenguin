@@ -90,6 +90,10 @@ overflow: hidden;
     border-radius: 70% 70% 100% 100%;
 }
 
+:root {
+    --penguin-face: white
+ }
+
 
 .left-mountain{
     width: 300px;
@@ -125,4 +129,4 @@ overflow: hidden;
 }
 
 
-/*next Exercise number 54*/
+
