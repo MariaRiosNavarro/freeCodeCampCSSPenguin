@@ -130,6 +130,14 @@ overflow: hidden;
     border-radius: 50%;
 }
 
+.blush.left{
+    left: 15%;
+}
+
+.blush.right{
+    right: 15%;
+}
+
 
 .left-mountain{
     width: 300px;
