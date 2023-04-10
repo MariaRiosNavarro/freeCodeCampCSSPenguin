@@ -159,6 +159,9 @@ overflow: hidden;
     font-size: 25px;
     font-family: Helvetica, sans-serif;
     font-weight: bold;
+    top: 165px;
+    left: 127.5px;
+    z-index: 1;
 }
 
 .shirt div {
