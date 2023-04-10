@@ -249,9 +249,9 @@ overflow: hidden;
     10% {
         transform: rotate(110deg) scaleX(-1);
         }
-    }
+    
     20% {
-
+        transform: rotate(130deg) scaleX(-1);
     }
     30% {
 
