@@ -68,9 +68,13 @@ overflow: hidden;
     left: 25%;
     border-radius: 0% 0% 100% 100%;
     opacity: 0.7;
-    
-  
   }
+
+.foot{
+    width: 15%;
+    height: 30%;
+    background-color: orange;
+}
 
 .face {
     width: 60%;
