@@ -71,6 +71,12 @@ overflow: hidden;
     opacity: 0.7;
   }
 
+.arm{
+    width: 30%;
+    height: 60%;
+    background: linear-gradient(90deg, gray, rgb(209, 210, 199));
+}
+
 .foot{
     width: 15%;
     height: 30%;
@@ -90,6 +96,7 @@ overflow: hidden;
     right: 25%;
     rotate: -80deg;
 }
+
 
 .face {
     width: 60%;
