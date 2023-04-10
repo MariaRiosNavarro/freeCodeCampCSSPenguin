@@ -85,6 +85,7 @@ overflow: hidden;
     left: 5%;
     transform-origin: top left; /*we can use to transform-origin: 0% 0% */
     transform: rotate(130deg) scaleX(-1);
+    animation: wave 3s infinite linear;
 }
 .arm.right{
     top:0%;
