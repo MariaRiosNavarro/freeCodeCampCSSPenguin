@@ -81,6 +81,8 @@ overflow: hidden;
 .arm.left{
     top:35%;
     left: 5%;
+    transform-origin: top left; /*we can use to transform-origin: 0% 0% */
+
 }
 .arm.right{
     top:0%;
