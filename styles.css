@@ -79,6 +79,14 @@ overflow: hidden;
     border-radius: 50%;
 }
 
+.foot.left {
+    left: 25%;
+}
+
+.foot.right{
+    right: 25%;
+}
+
 .face {
     width: 60%;
     height: 70%;
